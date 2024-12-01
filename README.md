@@ -17,7 +17,7 @@ The website template redesign for Timcheh using HTML, CSS, Tailwind css, JS, and
     <br />
     demo link:
     <a
-      href="https://aliakbar-nazemi.github.io/Timcheh/"
+      href="https://aliakbarnazemi-web.github.io/Timcheh/"
       target="_blank"
       style="width: fit-content; padding: 10px; background-color: #a8cd89;border-radius:5px;"
       >Demo</a
